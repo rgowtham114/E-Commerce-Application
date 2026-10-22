@@ -1,0 +1,8 @@
+{
+  "name": "E-Commerce Store",
+  "description": "Full-featured e-commerce web application with product browsing, category filtering, cart, wishlist, user authentication, and checkout.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
